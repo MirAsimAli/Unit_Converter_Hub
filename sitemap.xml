@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+  <loc>https://yourdomain.com/</loc>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/about.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/contact.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/tools/length.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/tools/weight.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/tools/temperature.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/tools/area.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/tools/volume.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/tools/density.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/tools/pressure.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/tools/speed.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/calculators/bricks.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/calculators/cement.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/calculators/tiles.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/student-tools/physics-formulas.html</loc>
+</url>
+
+<url>
+  <loc>https://yourdomain.com/student-tools/quick-calculator.html</loc>
+</url>
+
+</urlset>
